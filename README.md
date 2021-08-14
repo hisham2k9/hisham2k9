@@ -8,6 +8,8 @@ I am Sayed Hisham. A Consultant fullstack developer at Bupa Arabia. I love pytho
 - 👯 I’m looking to collaborate on: Analytics and Python based projects
 - 💬 Ask me about: Python, Django, Vue.Js, PostgreSQL, Statistics.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sayed-hisham/"><img src="download.jfif" alt="drawing" width="20px" height=20px/></a>
+
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
