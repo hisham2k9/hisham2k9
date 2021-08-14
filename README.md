@@ -14,6 +14,7 @@ I am Sayed Hisham. A Consultant fullstack developer at Bupa Arabia. I love pytho
 <!--ENDS_HERE_QUOTE_README-->
 
 
-##Github activity
-<img src="https://github-readme-stats.vercel.app/api?username=hisham2k9&show_icons=true&count_private=true" alt="android" width="20" height="20"/>
+## Github activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=hisham2k9&show_icons=true&count_private=true" alt="android" width="200" height="150"/>
 
