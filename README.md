@@ -8,6 +8,6 @@ I am Sayed Hisham. A Consultant fullstack developer at Bupa Arabia. I love pytho
 - 👯 I’m looking to collaborate on: Analytics and Python based projects
 - 💬 Ask me about: Python, Django, Vue.Js, PostgreSQL, Statistics.
 - 📫 How to reach me: ![download.jfif](https://github.com/hisham2k9/hisham2k9/raw/main/download.jfif)
-- <img src="download.jfif" alt="drawing" width="2px" height=2px/>
+- <img src="download.jfif" alt="drawing" width="20px" height=20px/>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
