@@ -10,7 +10,7 @@ I am Sayed Hisham. A Consultant fullstack developer at Bupa Arabia. I love pytho
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/sayed-hisham/" target="_blank"> <img src="https://github.com/hisham2k9/hisham2k9/raw/main/download.jfif" alt="android" width="20" height="20"/> </a> <a href="https://www.goodreads.com/user/show/70087422-sayed-hisham" target="_blank"> <img src="http://d.gr-assets.com/misc/1454549125-1454549125_goodreads_misc.png" alt="android" width="20" height="20"/> </a> 
 - ⚡ Fun fact: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I think it is inevitable that people program poorly.  Training will not substantially help matters.  We have to learn to live with it.”— Alan Perlis   ❞</i>
+<i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
