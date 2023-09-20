@@ -10,7 +10,7 @@ I am Sayed Hisham. A Consultant fullstack developer at Bupa Arabia. I love pytho
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/sayed-hisham/" target="_blank"> <img src="https://github.com/hisham2k9/hisham2k9/raw/main/download.jfif" alt="android" width="20" height="20"/> </a> <a href="https://www.goodreads.com/user/show/70087422-sayed-hisham" target="_blank"> <img src="http://d.gr-assets.com/misc/1454549125-1454549125_goodreads_misc.png" alt="android" width="20" height="20"/> </a> 
 - ⚡ Fun fact: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   ❞</i>
+<i>❝“Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.”— Donald E. Knuth   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
