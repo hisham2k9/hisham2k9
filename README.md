@@ -10,7 +10,7 @@ I am Sayed Hisham. A Consultant fullstack developer at Bupa Arabia. I love pytho
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/sayed-hisham/" target="_blank"> <img src="https://github.com/hisham2k9/hisham2k9/raw/main/download.jfif" alt="android" width="20" height="20"/> </a> <a href="https://www.goodreads.com/user/show/70087422-sayed-hisham" target="_blank"> <img src="http://d.gr-assets.com/misc/1454549125-1454549125_goodreads_misc.png" alt="android" width="20" height="20"/> </a> 
 - ⚡ Fun fact: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   ❞</i>
+<i>❝The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
