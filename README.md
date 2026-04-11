@@ -10,7 +10,7 @@ I am Sayed Hisham. A Consultant fullstack developer at Bupa Arabia. I love pytho
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/sayed-hisham/" target="_blank"> <img src="https://github.com/hisham2k9/hisham2k9/raw/main/download.jfif" alt="android" width="20" height="20"/> </a> <a href="https://www.goodreads.com/user/show/70087422-sayed-hisham" target="_blank"> <img src="http://d.gr-assets.com/misc/1454549125-1454549125_goodreads_misc.png" alt="android" width="20" height="20"/> </a> 
 - ⚡ Fun fact: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“How rare it is that maintaining someone else’s code is akin to entering a beautifully designed building, which you admire as you walk around and plan how to add a wing or do some redecorating. More often, maintaining someone else’s code is like being thrown headlong into a big pile of slimy, smelly garbage.”— Bill Venners   ❞</i>
+<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
