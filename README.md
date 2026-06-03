@@ -10,7 +10,7 @@ I am Sayed Hisham. A Consultant fullstack developer at Bupa Arabia. I love pytho
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/sayed-hisham/" target="_blank"> <img src="https://github.com/hisham2k9/hisham2k9/raw/main/download.jfif" alt="android" width="20" height="20"/> </a> <a href="https://www.goodreads.com/user/show/70087422-sayed-hisham" target="_blank"> <img src="http://d.gr-assets.com/misc/1454549125-1454549125_goodreads_misc.png" alt="android" width="20" height="20"/> </a> 
 - ⚡ Fun fact: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.”— Danny Thorpe   ❞</i>
+<i>❝2012 was the year a hacker group took down Pope John’s website because a food company spent over two hours to deliver as expected. The hacker group was called UGNazi.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
